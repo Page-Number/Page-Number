@@ -89,7 +89,8 @@ I am a Beginner developer. I know Java, HTML ,JavaScript and Node.js! I am 15 ye
 <li>
 <a href="https://www.youtube.com/channel/UCv9S-W2KN4zN1c4lx6pc1_A" target="_blank">
 <img src="https://cdn.discordapp.com/attachments/1080830679941648425/1088067795855614012/image.png" alt=instagram style="margin-bottom: 5px;"/>
-</a>
+<iframe src="https://discord.com/widget?id=882521011252248586&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+        </a>
 </li>
 </ul>
 </div>
