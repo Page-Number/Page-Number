@@ -24,7 +24,7 @@ I am a Beginner developer. I know Java, HTML ,JavaScript and Node.js! I am 15 ye
 <br><br>
 
 
-<a href="https://discord.com/channels/@me/757878787059744819"> <img src="https://discord.c99.nl/widget/theme-2/755297485328482356.png" alt="contact mee">
+<!--<a href="https://discord.com/channels/@me/757878787059744819"> <img src="https://discord.c99.nl/widget/theme-2/755297485328482356.png" alt="contact mee">-->
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -89,7 +89,6 @@ I am a Beginner developer. I know Java, HTML ,JavaScript and Node.js! I am 15 ye
 <li>
 <a href="https://www.youtube.com/channel/UCv9S-W2KN4zN1c4lx6pc1_A" target="_blank">
 <img src="https://cdn.discordapp.com/attachments/1080830679941648425/1088067795855614012/image.png" alt=instagram style="margin-bottom: 5px;"/>
-<iframe src="https://discord.com/widget?id=882521011252248586&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
         </a>
 </li>
 </ul>
