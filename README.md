@@ -1,10 +1,10 @@
-<div id="header" align="center">
-        <img src="http://corwindev.nl/corwindev.png"/></div>
-
-<h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--<div id="header" align="center">
+        <img src=""/></div>
+-->
+<h1 align="center"><b>Hello there It's PageNumber</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;++;FullStack+Developer,;HTML,+CSS,+PHP,+JAVA,+PYTHON;Made+with+love..<3;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Coders!;++;Beginner+Developer,;HTML,+JAVA;Made+for+you+all..<3;"></a>
 </p>
 
 
@@ -15,14 +15,14 @@
 <br>
 
 
-- Corwin van Velthuizen (**CorwinDev**)
+- PageNumber developer of (**Galaxy Bot**)
 ---
 <br><br>
 
-I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, TS but I'm always willing to learn new things! I am 16 years old and I live in the Netherlands. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via<a href="#contact">  below links! </a>
+I am a Beginner developer. I know Java, HTML ,JavaScript and Node.js! I am 15 years old(in 2023) and I live in India. I recently created a discord bot with multi-features of all bot combined in a single bot. I am always looking for new challenges! Do you want to use my discord bot see my new post?</a>
 <br><br>
 
-<a href="https://discord.com/channels/@me/755297485328482356"> <img src="https://discord.c99.nl/widget/theme-2/755297485328482356.png" alt="contact mee">
+<a href="https://discord.com/channels/@me/757878787059744819"> <img src="https://discord.c99.nl/widget/theme-2/755297485328482356.png" alt="contact mee">
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -64,11 +64,11 @@ I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, TS but 
 
 <div align="center">
 
-<a href="https://github.com/pagenumber-exe/">
+<a href="https://github.com/corwindev/">
   <img src="https://github-readme-stats.vercel.app/api?username=corwindev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=corwindev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="PageNumber"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=corwindev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="corwindev"/>
 
-![](https://komarev.com/ghpvc/?username=pagenumber-exe&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=corwindev&label=PROFILE+VIEWS)
 </a>
 </div>
 
