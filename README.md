@@ -82,13 +82,13 @@ I am a Beginner developer. I know Java, HTML ,JavaScript and Node.js! I am 15 ye
 
 <li>
 <a href="https://www.instagram.com/i.m_aniket/" target="_blank">
-<img src="https://cdn.discordapp.com/attachments/1080830679941648425/1088065848545124362/Youtube.jpg" alt=instagram style="margin-bottom: 5px;"/>
+<img src="https://cdn.discordapp.com/attachments/1080830679941648425/1088067917456871505/image.png" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
 <li>
-<a href="https://www.linkedin.com/in/corwindev/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<a href="https://www.youtube.com/channel/UCv9S-W2KN4zN1c4lx6pc1_A" target="_blank">
+<img src="https://cdn.discordapp.com/attachments/1080830679941648425/1088067795855614012/image.png" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
 </ul>
