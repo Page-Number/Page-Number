@@ -16,7 +16,8 @@
 <br>
 
 
-- PageNumber developer of (**Galaxy Bot**)
+<!-- - PageNumber developer of (**Galaxy Bot**) -->
+<a href = "https://galaxy-bot.pagenumber.repl.co/">PageNumber developer of Galaxy Bot</a>
 ---
 <br><br>
 
