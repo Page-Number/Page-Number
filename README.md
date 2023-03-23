@@ -79,18 +79,10 @@ I am a Beginner developer. I know Java, HTML ,JavaScript and Node.js! I am 15 ye
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"><b> Let's Connect..!</b>
 <br>
 <div align='left' id="contact">
-<ul>
-
-<li>
-<a href="https://www.instagram.com/i.m_aniket/" target="_blank">
-<img src="https://cdn.discordapp.com/attachments/1080830679941648425/1088067917456871505/image.png" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-</li>
-<br>
-<li>
-<a href="https://www.youtube.com/channel/UCv9S-W2KN4zN1c4lx6pc1_A" target="_blank">
-<img src="https://cdn.discordapp.com/attachments/1080830679941648425/1088067795855614012/image.png" alt=instagram style="margin-bottom: 5px;"/>
         </a>
+        <a href="https://instagram.com/i.m_aniket" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.m_aniket" height="30" width="40" /></a>
+        <a href="https://discord.gg/zn55VY83jB" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zn55VY83jB" height="30" width="40" /></a>
+         <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucv9s-w2kn4zn1c4lx6pc1_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucv9s-w2kn4zn1c4lx6pc1_a" height="30" width="40" /></a>
 </li>
 </ul>
 </div>
