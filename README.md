@@ -21,7 +21,7 @@
 ---
 <br><br>
 
-I am a Beginner developer. I know Java, HTML ,JavaScript and Node.js! I am 15 years old(in 2023) and I live in India. I recently created a discord bot with multi-features of all bot combined in a single bot. I am always looking for new challenges! Do you want to use my discord bot see my new post?</a>
+I am a Beginner developer. I know Java, HTML ,Java and soon work on more programming languages! I am 15 years old(in 2023) and I live in India. I recently created a discord bot with multi-features of all bot combined in a single bot. I am always looking for new challenges! Do you want to use my discord bot see my new post?</a>
 <br><br>
 
 
