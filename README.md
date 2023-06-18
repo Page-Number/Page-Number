@@ -82,7 +82,7 @@ I am a Beginner developer. I know Java, HTML ,Java and soon work on more program
         </a>
         <a href="https://instagram.com/i.m_aniket" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.m_aniket" height="30" width="40" /></a>
         <a href="https://discord.gg/zn55VY83jB" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zn55VY83jB" height="30" width="40" /></a>
-         <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucv9s-w2kn4zn1c4lx6pc1_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucv9s-w2kn4zn1c4lx6pc1_a" height="30" width="40" /></a>
+         <a href="https://www.youtube.com/channel/UCv9S-W2KN4zN1c4lx6pc1_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucv9s-w2kn4zn1c4lx6pc1_a" height="30" width="40" /></a>
 </li>
 </ul>
 </div>
