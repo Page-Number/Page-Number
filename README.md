@@ -25,7 +25,7 @@ I am a Beginner developer. I know Java, HTML ,Java and soon work on more program
 <br><br>
 
 
-<!--<a href="https://discord.com/channels/@me/757878787059744819"> <img src="https://discord.c99.nl/widget/theme-2/755297485328482356.png" alt="contact mee">-->
+<!--<a href="https://discord.com/channels/@me/757878787059744819"> <img src="https://discord.c99.nl/widget/theme-2/755297485328482356.png" alt="contact mee"ok>-->
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
